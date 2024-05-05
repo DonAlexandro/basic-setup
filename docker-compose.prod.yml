@@ -1,6 +1,7 @@
 version: '3'
 services:
   frontend:
+    # image: name of the image stored inside the external artifacts provider
     build:
       context: ./client
       args:
@@ -10,6 +11,7 @@ services:
     # command: production command here
 
   backend:
+    # image: name of the image stored inside the external artifacts provider
     build:
       context: ./server
       args:

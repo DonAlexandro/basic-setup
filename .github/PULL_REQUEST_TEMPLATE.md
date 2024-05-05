@@ -6,6 +6,6 @@ _Put here quick overview about what functional this PR will bring or what bug it
 
 _What should reviewer do to test new changes_
 
-## Trello ticket
+## Ticket
 
-_Link to the issue on Trello_
+_Link to the issue_
